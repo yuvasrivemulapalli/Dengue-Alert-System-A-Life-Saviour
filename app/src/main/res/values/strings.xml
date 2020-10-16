@@ -1,0 +1,74 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+
+    <string name="app_name">Dengue</string>
+    <string name="link1"><a href="https://www.lybrate.com/vijayawada/doctor/dr-tamma-sree-ram-general-physician">https://www.lybrate.com/vijayawada/doctor/dr-tamma-sree-ram-general-physician</a></string>
+    <string name="link2"><a href="https://www.justdial.com/Vijayawada/Sowmya-General-Hospital-Beside-Sono-Vision-Opposite-Mohandas-Theatre-Patamata/0866P866STD4001900_BZDET">https://www.justdial.com/Vijayawada/Sowmya-General-Hospital-Beside-Sono-Vision-Opposite-Mohandas-Theatre-Patamata/0866P866STD4001900_BZDET</a></string>
+    <string name="link3"><a href="https://www.practo.com/bangalore/hospital/fortis-hospital-32-bannerghatta-road?specialization=General%20Physician">https://www.practo.com/bangalore/hospital/fortis-hospital-32-bannerghatta-road?specialization=General%20Physician</a></string>
+    <string name="link4"><a href="https://www.practo.com/bangalore/hospital/sparsh-hospital-yeshwanthpur-2?specialization=General%20Physician">https://www.practo.com/bangalore/hospital/sparsh-hospital-yeshwanthpur-2?specialization=General%20Physician</a></string>
+    <string name="link5"><a href="https://www.fortismalar.com/Campaign/leading-multispeciality-hospital-chennai/?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKTLueOe8pO9byvonyp4BzfJpGJBgq-APBjEyR90gWYiLy6SsRoldRoCaRgQAvD_BwE">https://www.fortismalar.com/Campaign/leading-multispeciality-hospital-chennai/?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKTLueOe8pO9byvonyp4BzfJpGJBgq-APBjEyR90gWYiLy6SsRoldRoCaRgQAvD_BwE</a></string>
+    <string name="link6"><a href="https://www.fortismalar.com/Campaign/leading-multispeciality-hospital-chennai/?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKTLueOe8pO9byvonyp4BzfJpGJBgq-APBjEyR90gWYiLy6SsRoldRoCaRgQAvD_BwE">https://www.fortismalar.com/Campaign/leading-multispeciality-hospital-chennai/?gclid=CjwKCAiA-vLyBRBWEiwAzOkGVKTLueOe8pO9byvonyp4BzfJpGJBgq-APBjEyR90gWYiLy6SsRoldRoCaRgQAvD_BwE</a></string>
+    <string name="link7"><a href="https://www.practo.com/hyderabad/doctor/dr-surender-reddy-1-gastroenterologist?specialization=Internal%20Medicinepractice_id=1262831">https://www.practo.com/hyderabad/doctor/dr-surender-reddy-1-gastroenterologist?specialization=Internal%20Medicinepractice_id=1262831</a></string>
+    <string name="link8"><a href="https://www.practo.com/hyderabad/clinic/new-life-homeo-care-bowenpally?specialization=General%20Physician">https://www.practo.com/hyderabad/clinic/new-life-homeo-care-bowenpally?specialization=General%20Physician</a></string>
+    <string name="large_text" tools:ignore="DuplicateDefinition">
+        <font size="20">"How to protect yourself from getting dengue fever\n\n"</font>
+"•	You can protect yourself against dengue fever by taking the following precautions:\n"
+"•	Prevent mosquito breeding inside and outside your home\n"
+"•	Avoid visiting areas prone to mosquitoes\n"
+"•	Wear long-sleeves and long pants to cover your arms and legs. Dark colored clothes can attract mosquitoes a lot. So, use clothes that are light in color.\n"
+"•	Use mosquito nets while sleeping.\n\n"
+        <font size="20">"You can take the following precautions to protect your home from mosquitoes:\n\n"</font>
+"•	Use insecticide sprays in dark corners (under the bed, sofa and behind curtains) and burn repellent oils inside your home\n"
+"•	Turn over all water storage containers when empty and store them under a shelter\n"
+"•	Cover bamboo pole holders when not in use\n"
+"•	Loosen soil in potted plants to prevent accumulation of stagnant water on surface\n"
+"•	Clear fallen leaves and stagnant water in scupper drains and in the garden\n"
+"•	Clear any stagnant water in air cooler units\n"
+"•	Clear blockages in roof gutters\n"
+"•	Light Camphor in your room it acts as a brilliant repellent\n"
+"•	Keep the environment clean\n"
+"•	Avoid crowded places the more the people, the more the concentration of carbon dioxide in the atmosphere and higher the chances of instigating the odour senses of mosquitoes.\n"
+"•	Turn over empty pails and buckets so that they do not collect excess water.\n"
+"•	Cover the buckets and drums that are used for storing water.\n"
+"•	Clean out all empty flower pots.\n"
+"•	Repair broken septic tanks and cover vent pipes with wire mesh if any.\n"
+"•	Keep the dustbins clean; do not let any dirt get collected to avoid mosquitoes.\n"
+    </string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_scrolling2">Scrolling2Activity</string>
+
+
+</resources>
+
+    <!--
+<resources>
+    <string name="app_name">pages</string>
+</resources>
+
+    <string-array name="city_pakisthan">
+
+        <item>Karachi</item>
+
+        <item>Lahore</item>
+
+        <item>Faisalabad</item>
+
+        <item>Rawalpindi</item>
+
+    </string-array>
+
+
+     <string-array name="city_srilanka">
+
+        <item>Colombo</item>
+
+        <item>Dehiwala-Mount Lavinia</item>
+
+        <item>Moratuwa</item>
+
+        <item>Kotte</item>
+
+    </string-array>
+
+-->
